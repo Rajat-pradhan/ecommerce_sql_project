@@ -130,7 +130,7 @@ ecommerce-sales-analysis
 │
 ├── 02-sql
 │   |── ecommerce_analysis_queries.sql
-|   |--ecommerce.sql
+|   |──ecommerce.sql
 └── README.md
 ```
 
