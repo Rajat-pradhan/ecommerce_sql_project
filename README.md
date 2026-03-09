@@ -112,8 +112,6 @@ Customer Segmentation:
 ## 🛠 Tools Used
 
 - SQL
-- Python (Pandas, Matplotlib)
-- Power BI
 - GitHub
 
 ---
@@ -131,17 +129,8 @@ ecommerce-sales-analysis
 │   └── regions.csv
 │
 ├── 02-sql
-│   └── ecommerce_analysis_queries.sql
-│
-├── 03-python
-│   └── eda_analysis.ipynb
-│
-├── 04-dashboard
-│   └── ecommerce_dashboard.pbix
-│
-├── 05-images
-│   └── dashboard_preview.png
-│
+│   |── ecommerce_analysis_queries.sql
+|   |-ecommerce.sql
 └── README.md
 ```
 
