@@ -122,15 +122,21 @@ Customer Segmentation:
 ecommerce-sales-analysis
 │
 ├── 01-data
-│   ├── customers.csv
-│   ├── products.csv
-│   ├── orders.csv
-│   ├── order_details.csv
-│   └── regions.csv
-│
-├── 02-sql
-│   |── ecommerce_analysis_queries.sql
-|   |──ecommerce.sql
+│   ├── table_creation.sql
+│   ├── insert_into_customers.sql
+│   ├── insert_into_orderdetails.sql
+│   ├── insert_into_orders.sql
+│   └── insert_into_regions.sql
+│   |── insert_into_products.sql
+|
+├── 02-sql_analysis
+│   |── customer_insights.sql
+|   |── general_sales_insights.sql
+|   |── product_order_insights.sql 
+|   |── temporal_regional_return_insights.sql
+|
+|──03-ecommerce_erd.mbw
+|
 └── README.md
 ```
 
