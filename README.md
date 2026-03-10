@@ -139,7 +139,11 @@ ecommerce-sales-analysis
 |
 └── README.md
 ```
-
+---
+# Author
+- Rajat Pradhan
+- email: rajat20pradhan@gmail.com
+- **Data Analyst Portfolio Project**
 ---
 
 ⭐ If you find this project useful, consider **starring the repository**.
